@@ -26,6 +26,7 @@ This page shows related codes, papers and other informations.
 # Sparse Coding:
 - [总结SPM，ScSPM，LLC](http://blog.csdn.net/wertsdfg/article/details/50015929)
 - [稀疏编码及其改进（ScSPM，LLC，super-vector coding）](http://blog.csdn.net/tiandijun/article/details/40681463)
+- [图像的稀疏表示——ScSPM和LLC的总结](http://blog.csdn.net/jwh_bupt/article/details/9837555)
 
   
 For more details:[CBIR EXPLORE](https://www.jianshu.com/p/26f68f17f078)
