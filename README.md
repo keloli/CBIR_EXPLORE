@@ -6,6 +6,8 @@ This page shows related codes, papers and other informations.
 - [CBIR_LeaderBoard](https://github.com/insikk/CBIR_LeaderBoard)
 - https://github.com/willard-yuan/willard-yuan.github.io/tree/master/_posts
 ---
+# Team
+- 淘宝任小枫团队
 # Code:
 - [ReferenceCode: cnn-cbir-benchmark](https://github.com/willard-yuan/cnn-cbir-benchmark)
 - [ReferenceCode: image-retrieval](https://github.com/willard-yuan/image-retrieval)
